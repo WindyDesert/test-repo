@@ -9,7 +9,7 @@ public class Peon implements Runnable {
         this.castle = castle;
         this.mine = mine;
     }
-
+    //fuck yeah
 
     @Override
     public void run() {
